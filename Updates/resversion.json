@@ -1,0 +1,10 @@
+{
+	"version":2,
+	"files":{
+		"1":{
+		},
+		"2":{
+			"url":"http://somewhere.to/package_0002.zip"
+		}
+	}
+}
